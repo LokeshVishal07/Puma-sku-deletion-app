@@ -1,0 +1,4 @@
+streamlit>=1.60
+pandas>=2.0
+openpyxl>=3.1
+python-calamine>=0.8
